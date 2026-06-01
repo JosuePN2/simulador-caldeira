@@ -11,6 +11,10 @@ O foco do projeto e demonstrar, de forma simples, como uma matriz causa e efeito
 - Demonstrar a prioridade da seguranca sobre o controle continuo.
 - Facilitar a apresentacao de cenarios como falha de chama, baixa pressao de gas, emergencia e trip da caldeira.
 
+## Demonstração:
+
+https://youtu.be/OSkCbDWAo3Q
+
 ## Como instalar dependencias
 
 Recomenda-se usar um ambiente virtual Python.
