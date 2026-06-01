@@ -53,7 +53,7 @@ Entradas analogicas usadas na tela:
 - `AT-108`: teor de O2.
 - `TT-109`: temperatura na saida.
 - `PT-110`: pressao da fornalha.
-- `PT-112`: pressao do gas.
+- `PT-111`: pressao do gas.
 
 Entradas digitais de seguranca:
 
