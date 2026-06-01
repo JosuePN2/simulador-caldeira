@@ -21,6 +21,10 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
+Alternativamente, você pode instalar desta forma:
+```powershell
+pip install streamlit pandas plotly
+```
 
 ## Como rodar
 
