@@ -11,6 +11,12 @@ O foco do projeto e demonstrar, de forma simples, como uma matriz causa e efeito
 - Demonstrar a prioridade da seguranca sobre o controle continuo.
 - Facilitar a apresentacao de cenarios como falha de chama, baixa pressao de gas, emergencia e trip da caldeira.
 
+## Imagens:
+
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/a8bb46ec-3a95-42db-a097-27f322fa7e59" />
+
+<img width="1914" height="917" alt="image" src="https://github.com/user-attachments/assets/12d2b293-1fbe-421f-9db6-61ed8efce8cb" />
+
 ## Demonstração:
 
 https://youtu.be/OSkCbDWAo3Q
